@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EjercicioArreglos1
 {
@@ -38,7 +33,7 @@ namespace EjercicioArreglos1
         private void FillCal()
         {
             for (int i = 0; i < num_students; i++)
-            {
+            {   
                 Console.Write($"\nNombre del alumno {i + 1}: ");
                 names[i] = Console.ReadLine();
 

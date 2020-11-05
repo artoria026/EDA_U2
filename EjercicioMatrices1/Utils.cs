@@ -1,7 +1,7 @@
-﻿namespace EjercicioArreglos1
-{
-    using System;
+﻿using System;
 
+namespace EjercicioMatrices1
+{
     internal class Utils
     {
         public static int a = 0;
@@ -56,8 +56,5 @@
             Console.Write("Presione cualquier tecla para salir");
             Console.ReadKey();
         }
-
-
-
     }
 }

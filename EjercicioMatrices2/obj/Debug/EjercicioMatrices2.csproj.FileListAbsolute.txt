@@ -1,0 +1,7 @@
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.csprojAssemblyReference.cache
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.csproj.CoreCompileInputs.cache
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioMatrices2\bin\Debug\EjercicioMatrices2.exe.config
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioMatrices2\bin\Debug\EjercicioMatrices2.exe
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioMatrices2\bin\Debug\EjercicioMatrices2.pdb
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.exe
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioMatrices2\obj\Debug\EjercicioMatrices2.pdb

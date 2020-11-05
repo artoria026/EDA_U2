@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EjercicioArreglos1
 {
@@ -10,6 +6,8 @@ namespace EjercicioArreglos1
     {
         static void Main(string[] args) 
         {
+            Console.Clear();
+            Console.Title = "Arreglos Ejercicio 1";
             Function funcion = new Function();
             Utils.endProgram();
         }
