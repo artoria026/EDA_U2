@@ -113,10 +113,6 @@ namespace EjercicioExtra
             Console.WriteLine();
             Console.WriteLine("\nArreglo columnas ordenado: ");
             foreach (int pst in col) { Console.Write($" {pst} "); }
-
-            // ???????? 
-            Console.Write($"\nPromedio Columnas: {avgC / dim}");
-            //No se porque lo imprime dos veces en su ejemplo, pero no vaya a ser y me repruebe por eso...
         }
     }
 }
