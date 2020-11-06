@@ -1,0 +1,7 @@
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioExtra\obj\Debug\EjercicioExtra.csprojAssemblyReference.cache
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioExtra\obj\Debug\EjercicioExtra.csproj.CoreCompileInputs.cache
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioExtra\bin\Debug\EjercicioExtra.exe.config
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioExtra\bin\Debug\EjercicioExtra.exe
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioExtra\bin\Debug\EjercicioExtra.pdb
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioExtra\obj\Debug\EjercicioExtra.exe
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\EjercicioExtra\obj\Debug\EjercicioExtra.pdb
