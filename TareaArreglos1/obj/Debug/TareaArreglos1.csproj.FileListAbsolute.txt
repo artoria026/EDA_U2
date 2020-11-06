@@ -1,0 +1,7 @@
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos1\bin\Debug\TareaArreglos1.exe.config
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos1\bin\Debug\TareaArreglos1.exe
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos1\bin\Debug\TareaArreglos1.pdb
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos1\obj\Debug\TareaArreglos1.csprojAssemblyReference.cache
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos1\obj\Debug\TareaArreglos1.csproj.CoreCompileInputs.cache
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos1\obj\Debug\TareaArreglos1.exe
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos1\obj\Debug\TareaArreglos1.pdb
