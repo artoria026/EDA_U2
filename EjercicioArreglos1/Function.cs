@@ -17,6 +17,7 @@ namespace EjercicioArreglos1
             NumStudents();
             FillCal();
             CalcResults();
+            Console.Clear();
             PrintResults();
         }
 
@@ -33,7 +34,7 @@ namespace EjercicioArreglos1
         private void FillCal()
         {
             for (int i = 0; i < num_students; i++)
-            {   
+            {
                 Console.Write($"\nNombre del alumno {i + 1}: ");
                 names[i] = Console.ReadLine();
 
@@ -89,7 +90,7 @@ namespace EjercicioArreglos1
             {
                 Console.Write($"{final}  ");
             }
-
+            Console.WriteLine();
             Console.WriteLine($"\nEl alumno con mayor promedio es: {names[top]} con promedio: {avg[top]}");
             Console.WriteLine($"El alumno con menor promedio es: {names[bot]} con promedio: {avg[bot]}");
 
@@ -98,7 +99,7 @@ namespace EjercicioArreglos1
 
         private void PrintApr()
         {
-            Console.WriteLine("Aprobados:");
+            Console.WriteLine("\nAprobados:");
             for (int i = 0; i < num_students; i++)
             {
                 if (avg[i] >= 8)
@@ -107,7 +108,7 @@ namespace EjercicioArreglos1
                 }
             }
 
-            Console.WriteLine("Reprobados:");
+            Console.WriteLine("\nReprobados:");
             for (int i = 0; i < num_students; i++)
             {
                 if (avg[i] < 8)

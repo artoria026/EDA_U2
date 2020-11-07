@@ -7,7 +7,7 @@ namespace TareaArreglos1
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.Title = "Tarea Arreglos 1";
+            Console.Title = "Tareas Arreglos 1 (Palabras)";
             Function function = new Function();
             Utils.endProgram();
         }

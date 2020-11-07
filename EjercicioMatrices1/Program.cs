@@ -7,7 +7,7 @@ namespace EjercicioMatrices1
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.Title = "Matrices Ejercicio 1";
+            Console.Title = "Ejercicio Matrices 1 (No. Repetido)";
             Function function = new Function();
             Utils.endProgram();
         }

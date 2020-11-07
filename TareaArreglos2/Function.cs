@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TareaArreglos2
+namespace TareaMatrices2
 {
     class Function
     {

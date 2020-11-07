@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaArreglos2", "TareaArreglos2.csproj", "{51B1F60C-A87E-43DC-87BF-479C91F4C159}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaMatrices2", "TareaMatrices2.csproj", "{51B1F60C-A87E-43DC-87BF-479C91F4C159}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

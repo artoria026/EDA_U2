@@ -86,7 +86,7 @@ namespace EjercicioMatrices1
                     {
                         if (num == matriz[i, j])
                         {
-                            match[cont] = i + "," + j;
+                            match[cont] = (i + 1) + "," + (j + 1);
                             cont++;
                         }
                     }

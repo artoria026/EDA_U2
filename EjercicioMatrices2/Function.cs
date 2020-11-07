@@ -4,9 +4,10 @@ namespace EjercicioMatrices2
 {
     class Function
     {
-        int dim;
+        int dim, avg;
         int[,] matriz;
         int[] diagonal1, diagonal2;
+
 
         public Function()
         {
@@ -94,7 +95,7 @@ namespace EjercicioMatrices2
 
         private void PrintResults()
         {
-            int aux = 0;
+            int aux = 0, btn = 0;
             Console.WriteLine("\nDiagonal 1:");
             foreach (int nums in diagonal1)
             {
@@ -108,8 +109,19 @@ namespace EjercicioMatrices2
                 Console.Write($" {nums} ");
                 aux += nums;
             }
-
-            Console.Write($"\nPromedio de las dos diagonales: {aux / (dim * 2)}");
+            avg = aux / (dim * 2);
+            Console.Write($"\nPromedio de las dos diagonales: {avg}");
+            for (int i = 0; i < dim; i++)
+            {
+                for (int j = 0; j < dim; j++)
+                {
+                    if (matriz[i, j] < avg)
+                    {
+                        btn++;
+                    }
+                }
+            }
+            Console.WriteLine($"\nCantidad de números en la matriz menores al promedio de las diagonales: {btn}");
         }
 
     }

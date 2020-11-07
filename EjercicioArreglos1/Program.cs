@@ -4,10 +4,10 @@ namespace EjercicioArreglos1
 {
     class Program
     {
-        static void Main(string[] args) 
+        static void Main(string[] args)
         {
             Console.Clear();
-            Console.Title = "Arreglos Ejercicio 1";
+            Console.Title = "Ejercicio Arreglos 1 (Promedios)";
             Function funcion = new Function();
             Utils.endProgram();
         }

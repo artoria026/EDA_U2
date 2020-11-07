@@ -5,3 +5,10 @@ C:\Users\artur\source\repos\TareaArreglos2\obj\Debug\TareaArreglos2.csprojAssemb
 C:\Users\artur\source\repos\TareaArreglos2\obj\Debug\TareaArreglos2.csproj.CoreCompileInputs.cache
 C:\Users\artur\source\repos\TareaArreglos2\obj\Debug\TareaArreglos2.exe
 C:\Users\artur\source\repos\TareaArreglos2\obj\Debug\TareaArreglos2.pdb
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos2\bin\Debug\TareaArreglos2.exe.config
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos2\bin\Debug\TareaArreglos2.exe
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos2\bin\Debug\TareaArreglos2.pdb
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos2\obj\Debug\TareaArreglos2.csprojAssemblyReference.cache
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos2\obj\Debug\TareaArreglos2.csproj.CoreCompileInputs.cache
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos2\obj\Debug\TareaArreglos2.exe
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaArreglos2\obj\Debug\TareaArreglos2.pdb
