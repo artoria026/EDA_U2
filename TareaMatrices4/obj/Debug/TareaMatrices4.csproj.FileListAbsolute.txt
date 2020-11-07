@@ -1,0 +1,7 @@
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaMatrices4\bin\Debug\TareaMatrices4.exe.config
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaMatrices4\bin\Debug\TareaMatrices4.exe
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaMatrices4\bin\Debug\TareaMatrices4.pdb
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaMatrices4\obj\Debug\TareaMatrices4.csprojAssemblyReference.cache
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaMatrices4\obj\Debug\TareaMatrices4.csproj.CoreCompileInputs.cache
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaMatrices4\obj\Debug\TareaMatrices4.exe
+C:\Users\artur\Projects\C\Estructura de Datos Aplicadas  {remedial}\TareaMatrices4\obj\Debug\TareaMatrices4.pdb
