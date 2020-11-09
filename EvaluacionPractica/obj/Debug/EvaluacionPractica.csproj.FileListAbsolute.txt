@@ -1,0 +1,7 @@
+C:\Users\artur\Projects\EDA_U2\EvaluacionPractica\bin\Debug\EvaluacionPractica.exe.config
+C:\Users\artur\Projects\EDA_U2\EvaluacionPractica\bin\Debug\EvaluacionPractica.exe
+C:\Users\artur\Projects\EDA_U2\EvaluacionPractica\bin\Debug\EvaluacionPractica.pdb
+C:\Users\artur\Projects\EDA_U2\EvaluacionPractica\obj\Debug\EvaluacionPractica.csprojAssemblyReference.cache
+C:\Users\artur\Projects\EDA_U2\EvaluacionPractica\obj\Debug\EvaluacionPractica.csproj.CoreCompileInputs.cache
+C:\Users\artur\Projects\EDA_U2\EvaluacionPractica\obj\Debug\EvaluacionPractica.exe
+C:\Users\artur\Projects\EDA_U2\EvaluacionPractica\obj\Debug\EvaluacionPractica.pdb

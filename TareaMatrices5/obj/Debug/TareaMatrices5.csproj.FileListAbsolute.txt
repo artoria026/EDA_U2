@@ -1,0 +1,7 @@
+C:\Users\artur\Projects\EDA_U2\TareaMatrices5\obj\Debug\TareaMatrices5.csprojAssemblyReference.cache
+C:\Users\artur\Projects\EDA_U2\TareaMatrices5\obj\Debug\TareaMatrices5.csproj.CoreCompileInputs.cache
+C:\Users\artur\Projects\EDA_U2\TareaMatrices5\bin\Debug\TareaMatrices5.exe.config
+C:\Users\artur\Projects\EDA_U2\TareaMatrices5\bin\Debug\TareaMatrices5.exe
+C:\Users\artur\Projects\EDA_U2\TareaMatrices5\bin\Debug\TareaMatrices5.pdb
+C:\Users\artur\Projects\EDA_U2\TareaMatrices5\obj\Debug\TareaMatrices5.exe
+C:\Users\artur\Projects\EDA_U2\TareaMatrices5\obj\Debug\TareaMatrices5.pdb
