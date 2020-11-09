@@ -57,6 +57,7 @@ namespace EjercicioArreglos2
             Console.ReadKey();
         }
 
+        //Insercion directa
         public static int[] ShortArray(int[] array)
         {
             int aux, aux2;
@@ -76,6 +77,7 @@ namespace EjercicioArreglos2
             return array;
         }
 
+        //Verificar si un numero es primo
         public static bool PrimoCheck(int num)
         {
             if (num == 1)

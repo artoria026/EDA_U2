@@ -7,8 +7,7 @@ namespace EjercicioArreglos2
         static void Main(string[] args)
         {
             Console.Clear();
-            Console.Title = "Ejercicio Extra";
-            Function function = new Function();
+            Carrera carrera = new Carrera();
             Utils.endProgram();
         }
     }

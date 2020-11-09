@@ -1,0 +1,7 @@
+C:\Users\artur\Projects\EDA_U2\EjercicioArreglos2\bin\Debug\EjercicioArreglos2.exe.config
+C:\Users\artur\Projects\EDA_U2\EjercicioArreglos2\bin\Debug\EjercicioArreglos2.exe
+C:\Users\artur\Projects\EDA_U2\EjercicioArreglos2\bin\Debug\EjercicioArreglos2.pdb
+C:\Users\artur\Projects\EDA_U2\EjercicioArreglos2\obj\Debug\EjercicioArreglos2.csprojAssemblyReference.cache
+C:\Users\artur\Projects\EDA_U2\EjercicioArreglos2\obj\Debug\EjercicioArreglos2.csproj.CoreCompileInputs.cache
+C:\Users\artur\Projects\EDA_U2\EjercicioArreglos2\obj\Debug\EjercicioArreglos2.exe
+C:\Users\artur\Projects\EDA_U2\EjercicioArreglos2\obj\Debug\EjercicioArreglos2.pdb
